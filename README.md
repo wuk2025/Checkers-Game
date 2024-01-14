@@ -5,4 +5,4 @@
  
  This game was created and tested using IntelliJ IDEA. The GUI is created with JavaFX.
  
- There is a joke implemented when you win the game.
+ There is a joke implemented when the game is finished.
