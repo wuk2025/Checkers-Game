@@ -10,6 +10,9 @@ public class Piece
 {
     private boolean empty, dark, king;
 
+    /**
+     * Creates a piece with default information.
+     */
     public Piece()
     {
         empty = true;
