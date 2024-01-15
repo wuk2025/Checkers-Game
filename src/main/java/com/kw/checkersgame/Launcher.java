@@ -26,8 +26,6 @@ public class Launcher extends Application {
      * The method that creates the visuals based on inputs.
      * @param primaryStage the main stage being shown
      */
-
-    // So in short, this method is where the magic happens!
     public void start(Stage primaryStage)
     {
         primaryStage.setTitle("Checkers Game");
