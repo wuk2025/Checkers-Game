@@ -53,7 +53,7 @@ public class Logic {
             killAvailable = true;
             for (Position kill : kills)
             {
-                // all the moves from strikes are legal
+                // all the moves from kills are legal
                 legalPos.addAll(getMoves(kill));
             }
             killAvailable = false;
